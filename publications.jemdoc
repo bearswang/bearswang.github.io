@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter  
+==Shuai Wang
+
+21 top IEEE journal papers, including 12 first/corresponding author paper
+
+=== First and Corresponding Author:
+. S. Wang, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" submitted to IEEE for possible publication, 2021.
+. S. Wang, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, Jul. 2020. (conference version received best paper award from ICC)
+. S. Wang, R. Wang, Q. Hao, Y.-C. Wu, and H. V. Poor, \"Learning centric power allocation for edge intelligence,\" in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020. (Best Paper Award, 15/2100)
+. S. Wang, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020.
+. S. Wang, M. Xia, and Y.-C. Wu, \"Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,\" IEEE Transactions on Wireless Communications, vol. 18, no. 4, pp. 2314-2328, Apr. 2019.
+. S. Wang, M. Xia, and Y.-C. Wu, \"Multicast wirelessly powered network with large number of antennas via first-order method,\" IEEE Transactions on Wireless Communications, vol. 17, no. 6, pp. 3781-3793, Jun. 2018.
+. S. Wang, M. Xia, and Y.-C. Wu, \"Space-time signal optimization for SWIPT: Linear versus nonlinear energy harvesting model,\" IEEE Communications Letters, vol. 22, no. 2, pp. 408-411, Feb. 2018.
+. S. Wang, M. Xia, K. Huang, and Y.-C. Wu, \"Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,\" IEEE Transactions on Wireless Communications, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
+. S. Wang, M. Xia and Y.-C. Wu, \"Multi-pair two-way relay network with harvest-then-transmit users: resolving pairwise uplink-downlink coupling,\" IEEE Journal of Selected Topics in Signal Processing, vol. 10, no. 8, pp. 1506-1521, Dec. 2016.
+. S. Wang, Z. Wen, and L. Liu, \"High speed QPP generator with optimized parallel architecture in LTE-Advanced,\" International Journal of Advancements in Computing Technology, vol. 4, no. 23, pp. 355-364, Dec. 2012.
+. L. Zhou, Y. Hong, S. Wang*(corresponding author), R. Han, D. Li, R. Wang, and Q. Hao, \"Learning centric wireless resource allocation for edge computing: Algorithm and experiment,\" IEEE Transactions on Vehicular Technology, vol. 70, no, 1, pp. 1035-1040, Jan. 2021.
+. S. Huang, S. Wang*(corresponding author), R. Wang, M. Wen, and K. Huang, \"Reconfigurable intelligent surface assisted mobile edge computing with heterogeneous learning tasks,\" IEEE Transactions on Cognitive Communications and Networking, to appear, Jan. 2021. DOI: 10.1109/TCCN.2021.3056707.
+. D. Liu, S. Wang*(corresponding author), Z. Wen, L. Cheng, M. Wen, and Y.-C. Wu, \"Edge learning with unmanned ground vehicle: Joint path, energy, and sample size planning,\" IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2959-2975, Feb. 2021.
+. Z. Wen, S. Wang*(corresponding author), X. Liu, and J. Zou, \"Joint relay-user beamforming design in full-duplex two-way relay channel,\" IEEE Transactions on Vehicular Technology, vol. 66, no. 3, pp. 2874-2879, Mar. 2017.
+
+=== Other Papers:
+. S. Yu, X. Chen, S. Wang, L. Pu, and D. Wu, \"An edge computing-based photo crowdsourcing framework for real-time 3D reconstruction,\" to appear in IEEE Transactions on Mobile Computing, early access, Jun. 2020. DOI: 10.1109/TMC.2020.3007654.
+. L. Cheng, X. Tong, S. Wang, Y.-C. Wu, and H. V. Poor, \"Learning nonnegative factors from tensor data: Probabilistic modeling and inference algorithm,\" IEEE Transactions on Signal Processing, early access, Feb. 2020. DOI: 10.1109/TSP.2020.2975353.
+. Z. Li, S. Wang, P. Mu, and Y.-C. Wu, \"Probabilistic constrained secure transmission: Variable rate design and performance analysis,\" IEEE Transactions on Wireless Communications, vol. 19, no. 4, pp. 2543-2557, Apr. 2020.
+. Q. Wu, J. Lu, P. Wu, S. Wang, L. Chen, and M. Xia, \"Edge Learning: technologies, applications, and opportunities,\" invited paper in Radio Communications Technology, vol. 46, no. 1, pp. 6-25, Jan. 2020.
+. Z. Wen, X. Liu, N. C. Beaulieu, R. Wang, and S. Wang, \"Joint source and relay beamforming design for full-duplex MIMO AF relay SWIPT systems,\" IEEE Communications Letters, vol. 20, no. 2, pp. 320-323, Feb. 2016.
+. Y. Chen, Z. Wen, N. C. Beaulieu, S. Wang, and J. Sun, \"Joint source-relay design in a MIMO two-hop power-splitting based relaying network,\" IEEE Communications Letters, vol. 19, no. 10, pp. 1746-1749, Oct. 2015.
+. Z. Wen, S. Wang, C. Fan, and W. Xiang, \"Joint transceiver and power splitter design over two-way relaying channel with lattice codes and energy harvesting,\" IEEE Communications Letters, vol. 18, no. 11, pp. 2039-2042, Nov. 2014.
+. Z. Xu, D. Liu, S. Wang, and Z. Wen, \"Joint beamforming and power-splitting optimization for SWIPT-enabled MISO full-duplex two-way cooperative NOMA systems,\" Physical Communications, to appear, Dec. 2020.
+. T. Zhang, Y. Xu, S. Wang, M. Wen, and R. Wang, \"On secure degrees of freedom of the MIMO interference channel with local output feedback,\" IEEE Internet of Things Journal, to appear, 2021.
+. Q. Li, M. Wen, S. Wang, G. C. Alexandropoulos, and Yik-Chung Wu, \"Space shift keying with reconfigurable intelligent surfaces: Phase configuration designs and performance analysis,\" IEEE Open Journal of the Communications Society, to appear, Oct. 2020.
+. Z. Zhang, S. Wang, Y. Hong, L. Zhou, and Q. Hao, \"Distributed dynamic map fusion via federated learning for intelligent networked vehicles,\" in Proc. IEEE ICRA’2021, Xi’an, China, May 2021.
+. Z. Li, S. Wang, M. Wen, and Y.-C. Wu, \"Intelligent reflecting surfaces aided secure transmission: Outage-constrained energy-efficiency maximization,\" IEEE Trans. Wireless Commun., submitted, Oct. 2020.
+. Z. Li, S. Wang, Y. Li, M. Wen, Y.-C. Wu, and H. V. Poor, \"Resource optimization for RIS empowered wireless networks: Past, present, and future,\" IEEE Wireless Communications, submitted, Mar. 2021.
+
