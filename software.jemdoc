@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Shuai Wang
+
+=== Developed Platform:
+. Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
+. Robot edge intelligence experimental platform
+. Multi-robot communication simulation platform
+. Cooperative driving simulation platform
+. Cooperative perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]]
+. Federated learning simulation platform
+. Deep spectrogram network simulation platform
+

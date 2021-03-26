@@ -1,9 +1,7 @@
 menu
     Home                [index.html]
     Research			[research.html]
+    Software			[software.html]
 	Publication         [publications.html]
 	Teaching			[teaching.html]
-	
-usefull links
-    CARLA_INVS   		[https://github.com/zijianzhang/CARLA_INVS]
    
