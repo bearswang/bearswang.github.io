@@ -21,16 +21,16 @@ Currently, he is a Research Assistant Professor with Southern University of Scie
 == Research
 My research interests include 
 - Unmanned Autonomous Systems  
-- Distributed Edge Computing
-- Machine Learning
+- Edge Computing
+- Distributed Machine Learning
 
 [research.html Find out more].
 
 === Recent Publications 
-. Z. Zhang, S. Wang, Y. Hong, L. Zhou, and Q. Hao, \"Distributed dynamic map fusion via federated learning for intelligent networked vehicles,\" in Proc. IEEE ICRA’2021, Xi’an, China, May 2021. [https://arxiv.org/pdf/2103.03786.pdf \[preprint\]]
+. S. Wang, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2021.
 . S. Wang, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" submitted to IEEE for possible publication, 2021. [https://arxiv.org/pdf/2101.12051.pdf \[preprint\]]
-. S. Wang, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, Jul. 2020. (conference version received best paper award from ICC)
-. S. Wang, R. Wang, Q. Hao, Y.-C. Wu, and H. V. Poor, \"Learning centric power allocation for edge intelligence,\" in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020. (Best Paper Award, 15/2100)
+. S. Wang, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, Jul. 2020.
+. S. Wang, R. Wang, Q. Hao, Y.-C. Wu, and H. V. Poor, \"Learning centric power allocation for edge intelligence,\" in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020. (IEEE ICC Best Paper Award (15/2100) and IEEE SPCC Best Paper Award (1 per year))
 . S. Wang, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020.
 
 [publications.html Full list of publications].
