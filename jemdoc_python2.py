@@ -26,21 +26,21 @@ import sys
 import os
 import re
 import time
-import io
+import StringIO
 from subprocess import *
 import tempfile
 
 def info():
-  print(__doc__)
-  print('Platform: ' + sys.platform + '.')
-  print('Python: %s, located at %s.' % (sys.version[:5], sys.executable))
-  print('Equation support:', end=' ')
+  print __doc__
+  print 'Platform: ' + sys.platform + '.'
+  print 'Python: %s, located at %s.' % (sys.version[:5], sys.executable)
+  print 'Equation support:',
   (supported, message) = testeqsupport()
   if supported:
-    print('yes.')
+    print 'yes.'
   else:
-    print('no.')
-  print(message)
+    print 'no.'
+  print message
 
 def testeqsupport():
   supported = True
@@ -127,7 +127,7 @@ def showhelp():
     else:
       b += l
 
-  print(b)
+  print b
 
 def standardconf():
   a = """[firstbit]
@@ -281,7 +281,7 @@ def raisejandal(msg, line=0):
   raise JandalError(s)
 
 def readnoncomment(f):
-  l = f.readline().decode(encoding='utf-8')
+  l = f.readline()
   if l == '':
     return l
   elif l[0] == '#': # jem: be a little more generous with the comments we accept?
@@ -293,7 +293,7 @@ def parseconf(cns):
   syntax = {}
   warn = False # jem. make configurable?
   # manually add the defaults as a file handle.
-  fs = [io.BytesIO(bytes(standardconf(), encoding='utf-8'))]
+  fs = [StringIO.StringIO(standardconf())]
   for sname in cns:
     fs.append(open(sname, 'rb'))
 
@@ -307,7 +307,7 @@ def parseconf(cns):
 
         s = ''
         l = readnoncomment(f)
-        while l not in ('\r', '\n', ''):
+        while l not in ('\n', ''):
           s += l
           l = readnoncomment(f)
 
@@ -381,7 +381,7 @@ def hb(f, tag, content1, content2=None):
 def pc(f, ditchcomments=True):
   """Peeks at next character in the file."""
   # Should only be used to look at the first character of a new line.
-  c = f.inf.read(1).decode(encoding='utf-8')
+  c = f.inf.read(1)
   if c: # only undo forward movement if we're not at the end.
     if ditchcomments and c == '#':
       l = nl(f)
@@ -417,7 +417,7 @@ def doincludes(f, l):
 
 def nl(f, withcount=False, codemode=False):
   """Get input file line."""
-  s = f.inf.readline().decode(encoding='utf-8')
+  s = f.inf.readline()
   if not s and f.otherfiles:
     f.nextfile()
     return nl(f, withcount, codemode)
@@ -460,10 +460,10 @@ def np(f, withcount=False, eatblanks=True):
   else:
     s = nl(f)
 
-  while pc(f) not in ('\r', '\n', '-', '.', ':', '', '=', '~', '{', '\\(', '\\)'):
+  while pc(f) not in ('\n', '-', '.', ':', '', '=', '~', '{', '\\(', '\\)'):
     s += nl(f)
 
-  while eatblanks and pc(f) in ('\n', '\r'):
+  while eatblanks and pc(f) == '\n':
     nl(f) # burn blank line.
 
   # in both cases, ditch the trailing \n.
@@ -531,8 +531,8 @@ def replaceequations(b, f):
         # Check that the tools we need exist.
         (supported, message) = testeqsupport()
         if not supported:
-          print('WARNING: equation support disabled.')
-          print(message)
+          print 'WARNING: equation support disabled.'
+          print message
           f.eqsupport = False
           return b
 
@@ -552,7 +552,6 @@ def replaceequations(b, f):
       eqtext = allreplace(eq)
       eqtext = eqtext.replace('\\', '')
       eqtext = eqtext.replace('\n', ' ')
-      eqtext = eqtext.replace('\r', ' ')
 
       # Double braces will cause problems with escaping of image tag.
       eqtext = eqtext.replace('{{', 'DOUBLEOPENBRACE')
@@ -946,7 +945,7 @@ def geneq(f, eq, dpi, wl, outname):
       if os.path.exists(eqname) and eqname in eqdepths:
         return (eqdepths[eqname], eqname)
     except IOError:
-      print('eqdepthcache read failed.')
+      print 'eqdepthcache read failed.'
 
   # Open tex file.
   tempdir = tempfile.gettempdir()
@@ -956,7 +955,7 @@ def geneq(f, eq, dpi, wl, outname):
 
   preamble = '\documentclass{article}\n'
   for p in f.eqpackages:
-    preamble += '\\usepackage{%s}\n' % p
+    preamble += '\usepackage{%s}\n' % p
   for p in f.texlines:
     # Replace \{ and \} in p with { and }.
     # XXX hack.
@@ -983,7 +982,7 @@ def geneq(f, eq, dpi, wl, outname):
     rc = p.wait()
     if rc != 0:
       for l in p.stdout.readlines():
-        print('  ' + l.rstrip())
+        print '  ' + l.rstrip()
       exts.remove('.tex')
       raise Exception('latex error')
 
@@ -993,7 +992,7 @@ def geneq(f, eq, dpi, wl, outname):
     p = Popen(dvicmd, shell=True, stdout=PIPE, stderr=PIPE)
     rc = p.wait()
     if rc != 0:
-      print(p.stderr.readlines())
+      print p.stderr.readlines()
       raise Exception('dvipng error')
     depth = int(p.stdout.readlines()[-1].split('=')[-1])
   finally:
@@ -1010,7 +1009,7 @@ def geneq(f, eq, dpi, wl, outname):
       dc.write(eqname + ' ' + str(depth) + '\n')
       dc.close()
     except IOError:
-      print('eqdepthcache update failed.')
+      print 'eqdepthcache update failed.'
   return (depth, eqname)
 
 def dashlist(f, ordered=False):
@@ -1150,7 +1149,7 @@ def codeblock(f, g):
   if raw:
     return
   elif ext_prog:
-    print('filtering through %s...' % ext_prog)
+    print 'filtering through %s...' % ext_prog
 
     output,_ = Popen(ext_prog, shell=True, stdin=PIPE,
                      stdout=PIPE).communicate(buff)
@@ -1170,7 +1169,7 @@ def inserttitle(f, t):
     hb(f.outf, f.conf['doctitle'], t)
 
     # Look for a subtitle.
-    if pc(f) not in ('\n', '\r'):
+    if pc(f) != '\n':
       hb(f.outf, f.conf['subtitle'], br(np(f), f))
 
     hb(f.outf, f.conf['doctitleend'], t)
@@ -1190,7 +1189,7 @@ def procfile(f):
   js = []
   title = None
   while pc(f, False) == '#':
-    l = f.inf.readline().decode(encoding='utf-8')
+    l = f.inf.readline()
     f.linenum += 1
     if doincludes(f, l[1:]):
       continue
@@ -1377,7 +1376,7 @@ def procfile(f):
     elif p == '#':
       l = nl(f)
 
-    elif p in ('\n', '\r'):
+    elif p == '\n':
       nl(f)
 
     # look for blocks.
@@ -1503,7 +1502,7 @@ def main():
     showhelp()
     raise SystemExit
   if sys.argv[1] == '--show-config':
-    print(standardconf())
+    print standardconf()
     raise SystemExit
   if sys.argv[1] == '--version':
     info()
@@ -1553,8 +1552,8 @@ def main():
     else:
       thisout = outname
 
-    infile = open(inname, 'rb')
-    outfile = open(thisout, 'w', encoding='utf-8')
+    infile = open(inname, 'rUb')
+    outfile = open(thisout, 'w')
 
     f = controlstruct(infile, outfile, conf, inname)
     procfile(f)
