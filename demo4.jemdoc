@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{demo.html}, nofooter  
+==Shuai Wang
+
+=== Collision Avoidance Autonomous Vehicle Motion Prediction and Planning Based on Integrated Perception and V2V Communication
+~~~
+{}{img_left}{./gifs/lanechange.gif}{alt text}{1920}{1080}
+~~~
+
+\[V2VMPC\] S. Zhang, S. Wang, S. Yu, J.Q. Yu, and M. Wen, ``Collision avoidance autonomous vehicle motion prediction and planning based on integrated perception and V2V communication,''  submitted to IEEE for possible publication, 2022.
+- We design an autonomous vehicle motion planning strategy based on motion prediction and V2V communication.
+- Efficient and safe AV lane-change motion planning is achieved through the integration of the model predictive control and a deep learning techniques. 
+- We implement the motion planning algorithm in Car Learning to Act (CARLA) system under various traffic conditions. 

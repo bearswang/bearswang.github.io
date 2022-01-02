@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{demo.html}, nofooter  
+==Shuai Wang
+
+=== Distributed Dynamic Map Fusion via Federated Learning for Intelligent Networked Vehicles
+~~~
+{}{img_left}{./gifs/invs.gif}{alt text}{1920}{1080}
+~~~
+
+\[INVS\] Z. Zhang, S. Wang, Y. Hong, L. Zhou, and Q. Hao, “Distributed dynamic map fusion via federated learning for intelligent networked vehicles,” in Proc. IEEE ICRA’2021, Xi’an, China, May 2021.
+- The technology of dynamic map fusion among networked vehicles has been developed to enlarge sensing ranges and improve sensing accuracies for individual vehicles. 
+- We develop a three-stage fusion scheme to predict the number of objects effectively and to fuse multiple local maps with fidelity scores.
+- We develop a federated learning algorithm which fine-tunes feature learning networks distributively by aggregating model parameters.
+- We develop an ensemble distillation method to generate pseudo labels when human-based data annotation is  unavailable. 
