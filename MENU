@@ -1,11 +1,13 @@
-menu
+Menu
     Home                [index.html]
-    Research			[research.html]
-    Software			[software.html]
+    Awards              [awards.html]
 	Publication         [publications.html]
 	Teaching			[teaching.html]
 
-Demo    			
+Research
+    Group		        [group.html]
+    Projects			[projects.html]
+    Software            [software.html]
     Demo1    			[demo1.html]
     Demo2    			[demo2.html]
     Demo3    			[demo3.html]

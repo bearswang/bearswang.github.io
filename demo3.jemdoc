@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{demo.html}, nofooter  
-==Shuai Wang
+== Road Assisted Perception
 
 === Road Sensor Pose Optimization For Connected Autonomous Vehicle Perception
 ~~~
 {}{img_left}{./gifs/v2x.gif}{alt text}{1280}{720}
 ~~~
 
-\[FLCAVP\] S. Wang, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2021.
+\[FLCAVP\] S. Wang, C. Li, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2021.
 - The perception accuracy of ego-vehicle can be low due to occlusion. 
 - Roadside sensors with broader field of views and highly-optimized hardware units can achieve more accurate and robust object detection performance. 
 - Vehicle-to-infrastructure communication provides global bird-eye-views that overcomes the issue of occlusion. 

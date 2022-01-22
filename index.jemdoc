@@ -2,14 +2,17 @@
 ==Shuai Wang
 
 ~~~
-{}{img_left}{./photos/swang.jpg}{alt text}{131}{160}{https://faculty.sustech.edu.cn/wangs3/}
-Ph.D.,
+{}{img_left}{./photos/swang.jpg}{alt text}{190}{240}{https://faculty.sustech.edu.cn/wangs3/}
+Ph.D (HKU), M.Sc (BUPT), B.Sc (BUPT) \n
+Associate Professor\n
 \n [http://cloud.siat.ac.cn Research Center for Cloud Computing], 
-\n[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
+\n[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology]\n
+Chinese Academy of Sciences (CAS) \n
 1068 Xueyuan Avenue, Nanshan District \n
-Shenzhen 518055 \n
-P.R. China \n
-E-mail: /s.wang/ \[@\] siat \[DOT\] ac \[DOT\] cn
+Shenzhen 518055, P.R. China \n
+\n
+F9, Cloud Computing\n
+E-mail: s.wang@siat.ac.cn
 ~~~
 
 == About me
@@ -17,7 +20,22 @@ Dr. Shuai Wang received the B.S. degree and the M.S. degree from Beijing Univers
 He received the Ph.D. degree in Electrical and Electronic Engineering from the University of Hong Kong in 2018. 
 From 2018 to 2019, he has been a Postdoctoral Fellow at the University of Hong Kong. 
 From 2019 to 2021, he has been a Research Assistant Professor at Southern University of Science and Technology. 
-Currently, he is an Associate Professor with Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+Currently, he is a Associate Professor with Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+
+
+== Recruiting
+~~~
+I am actively looking for self-motivated master and undergraduate students to conduct research in areas of optimization, communication, deep learning, edge computing, autonomous driving, and robotics. 
+Please feel free to drop me an email with your CV, transcript, awards and publications (if any). \n
+Note: please make your email subject as Name-School-Major.
+~~~
+
+
+== What's New
+~~~
+2022-01: Two papers have been accepted by IEEE ICC 2022! Congratulations to Tong and Xiaoyang！\n
+2022-01: One paper has been accepted by IEEE JSTSP! Congratulations to Hao！
+~~~
 
 == Research
 My research interests include 
@@ -29,11 +47,11 @@ My research interests include
 [research.html Find out more].
 
 === Recent Publications 
-. S. Wang, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, \"Robotic wireless energy transfer in dynamic environments: System design and experimental validation,\" submitted to IEEE for possible publication, 2021.
-. S. Wang, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2021.
-. S. Wang, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" submitted to IEEE for possible publication, 2021. [https://arxiv.org/pdf/2101.12051.pdf \[preprint\]]
-. S. Wang, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, Jul. 2020.
-. S. Wang, R. Wang, Q. Hao, Y.-C. Wu, and H. V. Poor, \"Learning centric power allocation for edge intelligence,\" in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020. (IEEE ICC Best Paper Award (15 out of 2100) and IEEE SPCC Best Paper Award (1 per year))
-. S. Wang, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020.
+. *S. Wang*, C. Li, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2022.
+. *S. Wang*, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, \"Robotic wireless energy transfer in dynamic environments: System design and experimental validation,\" IEEE Communications Magazine, 2022.
+. *S. Wang*, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" IEEE Transactions on Communications, 2022. [https://arxiv.org/pdf/2101.12051.pdf \[preprint\]]
+. *S. Wang*, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, Jul. 2020.
+. *S. Wang*, R. Wang, Q. Hao, Y.-C. Wu, and H. V. Poor, \"Learning centric power allocation for edge intelligence,\" in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020. (IEEE ICC Best Paper Award (15 out of 2100) and IEEE SPCC Best Paper Award (1 per year))
+. *S. Wang*, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020.
 
 [publications.html Full list of publications].

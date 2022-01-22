@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{research.html}, nofooter  
-==Shuai Wang
+# jemdoc: menu{MENU}{software.html}, nofooter  
+==Software
 
 === Developed Platform:
 . Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
