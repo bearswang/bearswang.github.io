@@ -28,7 +28,6 @@ The concepts will cover perception, planning, navigation, control, and communica
 The algorithms will include object detection, multi-model fusion, multi-view fusion, federated learning, branch-and-bound, imitation learning, A star, D star, reciprocal velocity obstacle, optimization-based collision avoidance, and reinforcement learning. 
 The course would be based on autonomous driving datasets (such as Kitti, Waymo, Nuscenes), CARLA and Gazebo simulators, and Turtlebot2 robots. 
 Prerequisite courses: Python programming, machine learning, convex optimization. 
-At the end of this course, each group need to: \n
-. Develop a perception algorithm to detect objects in camera images or LiDAR point clouds with average precision higher than 0.8; \n
-. Control multiple robots to avoid obstacles while reaching the goals with the minimum motion time.
+At the end of this course, each group need to: (1) Develop a perception algorithm to detect objects in camera images or LiDAR point clouds with average precision higher than 0.8;
+(2) Control multiple robots to avoid obstacles while reaching the goals with the minimum motion time.
 ~~~
