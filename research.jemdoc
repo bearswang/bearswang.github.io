@@ -2,39 +2,41 @@
 ==Shuai Wang
 
 === Research Grants:
-. Guangdong Basic and Applied Basic Research Project, Key Program, Co-PI
-. National Natural Science Fundation of China (NSFC), PI
-. Guangdong Universities Youth Innovative Talent Project, PI
-. Shenzhen Fundamental Research Project, General Program, PI
-. Shenzhen Science and Technology Project, Youth Program, PI
-. Shenzhen Science and Technology Project, Key Program, Core Member
-. SUSTech-Huawei Cooperation Project, Core Member
-. SUSTech-FXB Cooperation Project, Core Member
- 
-=== Core Member of:
-. SIAT Research Center for Cloud Computing
-. SUSTech Intelligent Transportation Center
-. SUSTech Lab of Wireless Communications and System Optimization
+. Guangdong Laboratory of Artificial Intelligence and Digital Economy, Open Research Fund, *PI*
+\n
+Topic: Federated learning autonomous driving
+. Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
+\n
+Topic: V2X simulation
+. National Natural Science Fundation of China (NSFC), *PI*
+\n
+Topic: Large-scale edge intelligence systems
+. Guangdong Universities Youth Innovative Talent Project, *PI*
+\n
+Topic: Edge robotics
+. Shenzhen Fundamental Research Project, General Program, *PI*
+\n
+Topic: Communication for edge intelligence
+. Shenzhen Science and Technology Project, Youth Program, *PI*
+\n
+Topic: Communication for autonomous driving perception
+. SUSTech-Huawei Cooperation Project, *Co-PI*
+\n
+Topic: WIFI sensing
+. Shenzhen Science and Technology Project, Key Program, Participant
+\n
+Topic: Autonomous driving
+. SUSTech-FXB Cooperation Project, Participant
+\n
+Topic: V2X course design
 
-=== Awards:
-. Best Paper Award, Radio Communications Technology, 2021
-. Best Paper Award, IEEE Signal Processing and Computing for Communications, 2021
-. Best Paper Award, IEEE International Conference on Communications, 2020
-. Shenzhen Overseas High-Level Talent Program, 2019
-. Exemplary Reviewer for the IEEE Transactions on Wireless Communications
-. Exemplary Reviewer for the IEEE Wireless Communications Letters
-. HKU P. K. Yu Memorial Scholarship
-. First Prize, 7th National Graduate Electronics and Information Contest
-. National Graduate Scholarship 
-. Second Prize, 8th National Graduate Electronics Design Contest
+=== Software:
+. Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
+. Robot edge intelligence experimental platform [https://github.com/lasso-sustech/ff-ctrl \[codes\]]
+. Multi-robot platform [https://github.com/bearswang/master_multirobot \[codes\]]
+. Cooperative perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]]
+. Cooperative driving simulation platform
+. Federated learning simulation platform
+. Integrated sensing and communication simulation platform
 
-
-=== Service:
-. Founding Member of ISAC-ETI
-. Session chair for IEEE WCNC 2021
-. TPC member for IEEE PIMRC 2021
-. Session chair for IEEE ICC 2019
-. 3GPP and IEEE standardization (with Hitachi and Huawei)
-. Member, IEEE
-. Senior Member, China Institute of Communications
 

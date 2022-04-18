@@ -1,16 +1,16 @@
-Menu
+About Me
     Home                [index.html]
-    Awards              [awards.html]
 	Publication         [publications.html]
+    Awards & Service    [awards.html]
 	Teaching			[teaching.html]
 
 Research
-    Group		        [group.html]
-    Projects			[projects.html]
-    Software            [software.html]
+    Projects			[research.html]
     Demo1    			[demo1.html]
     Demo2    			[demo2.html]
     Demo3    			[demo3.html]
     Demo4   			[demo4.html]
     Demo5   			[demo5.html]
    
+Group
+    INVS		        [group.html]
