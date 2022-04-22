@@ -3,11 +3,11 @@
 
 
 ~~~
-{}{img_left}{./gifs/sumo.gif}{alt text}{1000}{600}
+{}{img_left}{./gifs/sumo.gif}{alt text}{800}{400}
 ~~~
-~~~
+
+
 === CARLA-SUMO Integrated Simulation Platform
 \[CARLA\] A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun, “Carla: An open urban driving simulator,” in Proceedings of the 1st Annual Conference on Robot Learning (CoRL), Mountain View, CA, Oct. 2017, pp. 1–16.
 - This vedio shows that CARLA-SUMO integrated platform can provide high-fidelity environmentals, behaviors, and interfaces. 
 - With CARLA-ROS bridge, hardware-in-the-loop simulation can be further developped. 
-~~~

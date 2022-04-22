@@ -15,6 +15,7 @@ F9, Cloud Computing\n
 E-mail: s.wang@siat.ac.cn
 ~~~
 
+
 == About me
 Dr. Shuai Wang received the B.S. degree and the M.S. degree from Beijing University of Posts and Telecoms in 2011 and 2014, respectively. 
 He received the Ph.D. degree in Electrical and Electronic Engineering from the University of Hong Kong in 2018. 
@@ -22,10 +23,17 @@ From 2018 to 2019, he has been a Postdoctoral Fellow at the University of Hong K
 From 2019 to 2021, he has been a Research Assistant Professor at Southern University of Science and Technology. 
 Currently, he is a Associate Professor with Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 
+
 Shuai is the Core Member of:
-- SIAT Research Center for Cloud Computing
-- SUSTech Intelligent Transportation Center
-- SUSTech Lab of Wireless Communications and System Optimization
+- [http://cloud.siat.ac.cn SIAT Research Center for Cloud Computing]
+- [http://www.isus.org.cn/ SUSTech Intelligent Transportation Center]
+- [https://eee.sustech.edu.cn/p/wangrui/ SUSTech Lab of Wireless Communications and System Optimization]
+
+== Links
+- [group.html INVS]
+- [https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar]
+- [https://www.researchgate.net/profile/Shuai-Wang-118 My ResearchGate]
+- [https://github.com/bearswang My Github]
 
 == Research
 My research interests include 
@@ -53,7 +61,8 @@ My research interests include
 \n
 . *S. Wang*, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" IEEE Transactions on Communications, 2022. [https://arxiv.org/pdf/2101.12051.pdf \[preprint\]]
 \n
-. *S. Wang*, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7293-7308, Jul. 2020. [https://arxiv.org/pdf/1911.04922.pdf \[preprint\]] (This work received IEEE ICC Best Paper Award (15 out of 2100) and IEEE SPCC Best Paper Award (1 per year))
+. *S. Wang*, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7293-7308, Jul. 2020. 
+[https://arxiv.org/pdf/1911.04922.pdf \[preprint\]] (*This work received IEEE ICC Best Paper Award (15 out of 2100) and IEEE SPCC Best Paper Award (1 per year)*)
 \n
 . *S. Wang*, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020. [https://arxiv.org/pdf/1911.04922.pdf \[preprint\]]
 

@@ -1,5 +1,17 @@
 # jemdoc: menu{MENU}{group.html}, nofooter  
-==INVS@SIAT: Intelligent Networked Vehicle System Lab at Shenzhen Institute of Advanced Technology
+==INVS@SIAT: Intelligent Networked Vehicle System Lab
+
+
+=== Introduction
+~~~
+{}{img_left}{./photos/invs.png}{alt text}{800}{600}
+~~~
+
+- We are Intelligent Networked Vehicle System Lab from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+- Our long-term goal is to realize trust-worthy interactive autonomous systems. 
+- Currently, we work on connected autonomous vehicles and edge robotics systems.
+- We leverage optimization, maching learning, and simulation tools to advance their efficiency and robustness.
+
 
 === Group Members:
 ~~~
