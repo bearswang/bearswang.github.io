@@ -1,0 +1,48 @@
+==Research Grants
+
+=== Fundings:
+. Shenzhen Research Institute of Big Data, Consultant Fund, *PI*
+\n
+Topic: 5G AI connected autonomous driving
+. Chinese Academy of Sciences 100 Talent, Candidate Program, *PI*
+\n
+Topic: Swarm robots
+. Guangdong Laboratory of Artificial Intelligence and Digital Economy, Open Research Fund, *PI*
+\n
+Topic: Federated learning autonomous driving
+. Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
+\n
+Topic: V2X simulation
+. National Natural Science Fundation of China (NSFC), *PI*
+\n
+Topic: Large-scale edge intelligence systems
+. Guangdong Universities Youth Innovative Talent Project, *PI*
+\n
+Topic: Edge robotics
+. Shenzhen Fundamental Research Project, General Program, *PI*
+\n
+Topic: Communication for edge intelligence
+. Shenzhen Science and Technology Project, Youth Program, *PI*
+\n
+Topic: Communication for autonomous driving perception
+. SUSTech-Huawei Cooperation Project, *Co-PI*
+\n
+Topic: WIFI sensing
+. Shenzhen Science and Technology Project, Key Program, Participant
+\n
+Topic: Autonomous driving
+. SUSTech-FXB Cooperation Project, Participant
+\n
+Topic: V2X course design
+
+=== Products:
+. Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
+. Robot edge intelligence experimental platform [https://github.com/bearswang/RoboEDGE \[codes\]]
+. Multi-robot platform [https://github.com/hanruihua/rvo_ros \[codes\]]
+. Autonomous driving perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]] 
+. Federated learning autonomous driving simulation platform [https://github.com/SIAT-INVS/CarlaFLCAV \[codes\]]
+. CARLA dataset generation tools [https://github.com/KevinLADLee/carla_dataset_tools \[codes\]]
+. Cooperative driving simulation platform
+. Integrated sensing and communication simulation platform
+
+

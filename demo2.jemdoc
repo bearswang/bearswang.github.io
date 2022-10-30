@@ -1,13 +1,21 @@
-# jemdoc: menu{MENU}{demo.html}, nofooter  
-==CARLA
-
+== Autonomous Driving Over-The-Air (OTA) Updates
 
 ~~~
-{}{img_left}{./gifs/sumo.gif}{alt text}{800}{400}
+{}{img_left}{./gifs/v2x.gif}{alt text}{1000}{500}
 ~~~
 
 
-=== CARLA-SUMO Integrated Simulation Platform
-\[CARLA\] A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun, “Carla: An open urban driving simulator,” in Proceedings of the 1st Annual Conference on Robot Learning (CoRL), Mountain View, CA, Oct. 2017, pp. 1–16.
-- This vedio shows that CARLA-SUMO integrated platform can provide high-fidelity environmentals, behaviors, and interfaces. 
-- With CARLA-ROS bridge, hardware-in-the-loop simulation can be further developped. 
+=== Road Sensor Placement For Autonomous Driving OTA
+
+*S. Wang*, C. Li, D. W. K. Ng, Y. C. Eldar, H. V. Poor, Q. Hao, C. Xu,  
+\"Federated deep learning meets autonomous vehicle perception: Design and verification,\" 
+IEEE Network Magazine, 2022.
+
+Future autonomous driving (AD) systems must cope with multi-variate open scenarios, 
+which involves corner cases due to infinite scenario space and visual occlusions due to high scenario complexity. 
+AD companies, e.g., Tesla, Waymo, Baidu, suggested that these challenges be tackled via 
+lifelong multi-stage training that updates the deep neural network parameters
+whenever rare or occluded objects are detected. 
+Road sensors' perception outputs can be adopted to annotate occluded objects for local parameter updates, 
+as they have broader field of views and highly-optimized hardware units 
+that can achieve more accurate and robust object detection performance. 

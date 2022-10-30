@@ -1,13 +1,17 @@
-# jemdoc: menu{MENU}{demo.html}, nofooter  
-== Road Assisted Perception
+==Autonomous Vehicle Motion Planning
 
 ~~~
-{}{img_left}{./gifs/v2x.gif}{alt text}{800}{400}
+{}{img_left}{./gifs/lanechange.gif}{alt text}{1000}{500}
 ~~~
 
+=== Collision Avoidance Autonomous Vehicle Motion Prediction and Planning
+S. Zhang, *S. Wang\**, S. Yu, J.Q. Yu, and M. Wen, 
+\"Collision avoidance predictive motion planning based on integrated perception and V2V communication,\" 
+IEEE Transactions on Intelligent Transportation System, vol. 23, no. 7, pp. 9640-9653, 2022.
+\n
 
-=== Road Sensor Pose Optimization For Connected Autonomous Vehicle Perception
-\[FLCAVP\] S. Wang, C. Li, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2021.
-- The perception accuracy of ego-vehicle can be low due to occlusion. 
-- Roadside sensors with broader field of views and highly-optimized hardware units can achieve more accurate and robust object detection performance. 
-- Vehicle-to-infrastructure communication provides global bird-eye-views that overcomes the issue of occlusion. 
+We design an autonomous vehicle motion planning strategy based on motion prediction and V2V communication.
+The method leverages optimization and deep learning techniques to realize efficient and safe automated lane-change.
+We implement the motion planning algorithm in Car Learning to Act (CARLA) system under various traffic conditions. 
+Simulations show that the proposed scheme can generate smooth collision-free trajectories for navigation 
+even under high sensing uncertainties. 

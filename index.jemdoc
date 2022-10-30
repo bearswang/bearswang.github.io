@@ -1,91 +1,119 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Shuai Wang
+==Welcome to Shuai's Homepage!
 
 ~~~
-{}{img_left}{./photos/swang.jpg}{alt text}{190}{240}{https://faculty.sustech.edu.cn/wangs3/}
-Ph.D (HKU), M.Sc (BUPT), B.Sc (BUPT) \n
+{}{img_left}{./photos/swang.jpg}{alt text}{262}{320}{https://faculty.sustech.edu.cn/wangs3/}
+Shuai Wang (王帅) \n
+Ph.D (HKU), M.S. (BUPT), B.S. (BUPT) \n
 Associate Professor\n
-\n [http://cloud.siat.ac.cn Research Center for Cloud Computing]
-\n[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology]\n
-Chinese Academy of Sciences (CAS) \n
-1068 Xueyuan Avenue, Nanshan District \n
-Shenzhen 518055, P.R. China \n
 \n
-F9, Cloud Computing\n
+PI, [group.html Intelligent Networked Vehicle System (INVS) Lab] \n
+[http://cloud.siat.ac.cn Research Center for Cloud Computing]  \n
+[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)] \n
+\n
+SIAT F903, 1068 Xueyuan Avenue, Nan Shan \n
+Shenzhen 518055, P.R. China \n
+
 E-mail: s.wang@siat.ac.cn
 ~~~
 
 
 == About me
-Dr. Shuai Wang received the B.S. degree and the M.S. degree from Beijing University of Posts and Telecoms in 2011 and 2014, respectively. 
-He received the Ph.D. degree in Electrical and Electronic Engineering from the University of Hong Kong in 2018. 
+Dr. Shuai Wang received the B.S. and M.S. degrees from the Beijing University of Posts and Telecommunications in 2011 and 2014, respectively. 
+He received the Ph.D. degree (P.K.Yu Scholarship) in Electrical and Electronic Engineering from 
+the University of Hong Kong in 2018. 
 From 2018 to 2019, he has been a Postdoctoral Fellow at the University of Hong Kong. 
 From 2019 to 2021, he has been a Research Assistant Professor at Southern University of Science and Technology. 
-Currently, he is a Associate Professor with Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+Currently, he is an Associate Professor at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 
 
-Shuai is the Core Member of:
-- [http://cloud.siat.ac.cn SIAT Research Center for Cloud Computing]
-- [http://www.isus.org.cn/ SUSTech Intelligent Transportation Center]
-- [https://eee.sustech.edu.cn/p/wangrui/ SUSTech Lab of Wireless Communications and System Optimization]
+Shuai works on unmanned autonomous systems, with an emphasis on leveraging machine learning, 
+accelerated algorithms, and virtual-reality integration to advance the efficiency and robusness of 
+autonomous perception and navigation systems in open, dynamic, and heterogeneous scenarios. 
+He is the primary contributor of CarlaINVS and CarlaFLCAV platforms ([https://github.com/bearswang My Github]).
 
-== Links
-- [group.html INVS]
-- [https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar]
-- [https://www.researchgate.net/profile/Shuai-Wang-118 My ResearchGate]
-- [https://github.com/bearswang My Github]
+Shuai has been selected into Shenzhen Overseas High-Level Talent Program 
+and Chinese Academy of Sciences 100 Talent Program (Candidate) in 2019 and 2022, respectively.
+Shuai has received several academic and industrial awards, including 
+IEEE Signal Processing and Computing for Communications Best Paper Award, 
+IEEE International Conference on Communications Best Paper Award, 
+and the First Prize in 5G Blooming Cup National Industrial Competition ([awards.html Full list of awards]).
+Shuai is the PI of 9 projects from both goverments and industries ([grants.html Full list of grants]).
+He has published 35 SCI papers, 20 EI papers, including 18 JCR Q1 papers as first or corresponding author, 
+with 600 citations in Google Scholar 
+([https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar], 
+[https://www.researchgate.net/profile/Shuai-Wang-118 My Research Gate]).
+Shuai serves as the Guest Editor of 3 SCI journals and the Symposium chair/TPC member of 10 conferences.
+
+Shuai was the Core Member and is currently a Visiting Professor of 
+[http://www.isus.org.cn/ SUSTech Intelligent Transportation Center].
+
 
 == Research
-My research interests include 
-- Autonomous Vehicle 
-- Edge Robotics
-- Edge intelligence
-- Optimization
+Some of my current researches are listed below. 
+\n
+- Optimization and implementation of connected autonomous systems via CARLA-ROS-BRIDGE
+- Sensing, mapping, localization, and navigation of swarm robots
+- Efficient communications in edge intelligence systems
 
-=== Optimization and implementation of connected autonomous systems with CARLA
 ~~~
-{}{img_left}{./img/carla.png}{alt text}{800}{360}
-~~~
-
-=== Hardware-in-the-loop Simulation of robotic wireless networks with ROS
-~~~
-{}{img_left}{./img/ros.png}{alt text}{800}{360}
+{}{img_left}{./img/carla.png}{alt text}{1000}{420}
 ~~~
 
-[research.html Find out more].
+~~~
+{}{img_left}{./img/ros.png}{alt text}{1000}{420}
+~~~
 
-=== Recent Publications 
-. *S. Wang*, C. Li, Q. Hao, D. W. K. Ng, Y. C. Eldar, and H. V. Poor, \"Federated learning meets connected autonomous vehicle perception: Principles and implementation,\" submitted to IEEE for possible publication, 2022.
+Find out more at:
+
+- [demo1.html Demo 1: Edge federated learning]
+- [demo2.html Demo 2: Autonomous driving over-the-air updates]
+- [demo3.html Demo 3: Autonomous vehicle model predictive control]
+- [demo4.html Demo 4: Distributed dynamic map fusion]
+
+=== Selected Publications 
+. *S. Wang*, C. Li, D. W. K. Ng, Y. C. Eldar, H. V. Poor, Q. Hao, and C. Xu, 
+\"Federated deep learning meets autonomous vehicle perception: Design and verification,\" 
+IEEE Network Magazine, 2022. [https://arxiv.org/abs/2206.01748v1.pdf \[preprint\]] 
 \n
 . *S. Wang*, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, \"Robotic wireless energy transfer in dynamic environments: System design and experimental validation,\" IEEE Communications Magazine, vol. 60, no. 3, pp. 40-46, Mar. 2022. [https://arxiv.org/pdf/2201.12702.pdf \[preprint\]]
 \n
-. *S. Wang*, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, \"Edge federated learning via unit-modulus over-the-air computation,\" IEEE Transactions on Communications, 2022. [https://arxiv.org/pdf/2101.12051.pdf \[preprint\]]
+. *S. Wang*, Y. Hong, R. Wang, Q. Hao, Y.-C. Wu, and D. W. K. Ng, 
+\"Edge federated learning via unit-modulus over-the-air computation,\" 
+IEEE Transactions on Communications, vol. 70, no. 5, pp. 3141-3156, May 2022.
 \n
 . *S. Wang*, Y.-C. Wu, M. Xia, R. Wang, and H. V. Poor, \"Machine intelligence at the edge with learning centric power allocation,\" IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7293-7308, Jul. 2020. 
-[https://arxiv.org/pdf/1911.04922.pdf \[preprint\]] (*This work received IEEE ICC Best Paper Award (15 out of 2100) and IEEE SPCC Best Paper Award (1 per year)*)
+[https://arxiv.org/pdf/1911.04922.pdf \[preprint\]] 
 \n
 . *S. Wang*, M. Wen, M. Xia, R. Wang, Q. Hao and Y.-C. Wu, \"Angle aware user cooperation for secure massive MIMO in Rician fading channel,\" IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182-2196, Sept. 2020. [https://arxiv.org/pdf/1911.04922.pdf \[preprint\]]
 
-[publications.html Full list of publications].
+[pub.html Full list of publications].
 
-== Recruiting
-~~~
-I am actively looking for self-motivated master and undergraduate students to conduct research in areas of 
-optimization, communication, autonomous driving, and robotics. 
-\n
-Please feel free to drop me an email with your CV, transcript, awards and publications (if any).
-\n
-Note: please make your email subject as Name-School-Major.
-~~~
 
+=== Teaching
+. Digital communications
+. Numerical methods and optimization
+. Advanced Topics in Intelligent Driving
+
+More details can be found [teaching.html here].
 
 == What's New
-~~~
+I am actively looking for self-motivated master and undergraduate students to conduct research in areas of 
+autonomous driving, robotics, and communications. 
+Please feel free to drop me an email with your CV, transcript, awards and publications (if any).
+Note: please make your email subject as Name-School-Major.
+\n\n\n
+2022-10: I have been awarded the Third Prize in MIIT National 5G Industrial Competition, Virtual Private Network Track.\n
+2022-10: Our paper on multi-point integrated sensing and communication has been accepted by IEEE WCL! Congratulations to Guoliang! \n
+2022-10: Our paper on RIS OFDM relaying has been accepted by IEEE TVT! Congratulations to Tong! \n
+2022-09: I have been awarded the First Prize in MIIT National 5G Industrial Competition, Public Security Track.\n
+2022-07: Our paper on RIS empowered wireless networks has been accepted by MDPI Network! Congratulations to Zongze! \n
+2022-07: Our paper on tensor decomposition massive MIMO has been accepted by IEEE TCOM! Congratulations to Ruoyou！ \n
+2022-05: Our paper on V2X autonomous motion planning has been accepted by IEEE TITS! Congratulations to Shiyao! \n
+2022-05: Our paper on energy-efficient edge intelligence has been accepted by IEEE TWC! Congratulations to Xiaoyang！ \n
 2022-04: Our paper on device scheduling for federated learning has been accepted by IEEE TWC! Congratulations to Maojun！ \n
 2022-04: Our paper on topoloty optimization for federated learning has been accepted by IEEE IOTJ! Congratulations to Shanfeng and Zezhong！ \n
 2022-03: My paper on robotic wireless networks has been accepted by IEEE Communications Magazine! Congratulations to Ruihua! \n
 2022-03: Our paper on large-scale optimization has been accepted by IEEE TWC! Congratulations to Zongze！ \n
 2022-03: My paper on edge federated learning has been accepted by IEEE TCOM! \n
-2022-01: Two papers have been accepted by IEEE ICC 2022! Congratulations to Tong and Xiaoyang！\n
-2022-01: Our paper has been accepted by IEEE JSTSP! Congratulations to Hao！
-~~~
+2022-01: Two papers on ISAC-assisted edge intellience have been accepted by IEEE ICC 2022! Congratulations to Tong and Xiaoyang！\n
+2022-01: Our paper on federated meta learning has been accepted by IEEE JSTSP! Congratulations to Hao！

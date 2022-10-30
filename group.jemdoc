@@ -1,23 +1,40 @@
-# jemdoc: menu{MENU}{group.html}, nofooter  
-==INVS@SIAT: Intelligent Networked Vehicle System Lab
+==Welcome to Intelligent Networked Vehicle System (INVS) Lab!
+
+~~~
+{}{img_left}{./photos/invs.png}{alt text}{1000}{750}
+~~~
 
 
 === Introduction
+
+We are Intelligent Networked Vehicle System (INVS) Lab located at Shenzhen Institute of Advanced Technology F10, Chinese Academy of Sciences.
+
+Our long-term goal is to realize trust-worthy interactive autonomous systems. 
+Currently, we work on connected autonomous vehicles and edge robotics systems. 
+We leverage optimization, maching learning, and simulation tools to advance their efficiency and robustness.
+
+Swarm robots platform in INVS, including turtlebots, jetson racers, limo robots, aerial robots, GPU servers, etc:
+
 ~~~
-{}{img_left}{./photos/invs.png}{alt text}{800}{600}
+{}{img_left}{./photos/invs-sr.png}{alt text}{1000}{550}
 ~~~
 
-- We are Intelligent Networked Vehicle System Lab from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
-- Our long-term goal is to realize trust-worthy interactive autonomous systems. 
-- Currently, we work on connected autonomous vehicles and edge robotics systems.
-- We leverage optimization, maching learning, and simulation tools to advance their efficiency and robustness.
+More interesting vedios can be found at:
+
+- [demo1.html Demo 1: Edge federated learning]
+- [demo2.html Demo 2: Autonomous driving over-the-air updates]
+- [demo3.html Demo 3: Autonomous vehicle motion prediction]
+- [demo4.html Demo 4: Distributed dynamic map fusion]
 
 
 === Group Members:
 ~~~
 {}{img_left}{./photos/zhangtong.jpg}{alt text}{131}{160}
+Dr. Tong Zhang \n
 *Visiting Scholar* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)
+\n
+\n
 Posdoc Fellow, Southern University of Science and Technology \n
 Ph.D., Chinese University of Hong Kong \n
 Research Area: Integrated sensing and communications, communication security. \n
@@ -26,11 +43,11 @@ E-mail: zhangt7@sustech.edu.cn
 
 ~~~
 {}{img_left}{./photos/chenjianjun.jpg}{alt text}{131}{160}
+Jianjun Chen \n
 *Visiting PhD Student* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
-Ph.D. Studen \n
-Southern University of Science and Technology \n
-University of Technology Sydney \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+Ph.D. Student, Southern University of Science and Technology \n
 Research Area: V2X simulation, distributed learning. \n
 E-mail: 11960008@mail.sustech.edu.cn
 ~~~
@@ -39,10 +56,11 @@ E-mail: 11960008@mail.sustech.edu.cn
 
 ~~~
 {}{img_left}{./photos/hanruihua.jpg}{alt text}{131}{160}
+Ruihua Han \n
 *Visiting PhD Student* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
-Ph.D. Student\n
-Southern University of Science and Technology \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)  \n
+\n
+Ph.D. Student, Southern University of Science and Technology \n
 University of Hong Kong \n
 Research Area: Robotics, motion planning. \n
 E-mail: hanruihuaff@gmail.com
@@ -52,10 +70,11 @@ E-mail: hanruihuaff@gmail.com
 
 ~~~
 {}{img_left}{./photos/lichengyang.jpg}{alt text}{131}{160}{https://faculty.sustech.edu.cn/wangs3/}
+Chengyang Li \n
 *Visiting Scholar* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
-Research Engineer \n
-Southern University of Science and Technology \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+MPhil, Hong Kong University of Science and Technology \n
 Research Area: SLAM, CARLA simulation. \n
 E-mail: licy@mail.sustech.edu.cn
 ~~~
@@ -64,10 +83,11 @@ E-mail: licy@mail.sustech.edu.cn
 
 ~~~
 {}{img_left}{./photos/liguoliang.jpg}{alt text}{131}{160}{https://faculty.sustech.edu.cn/wangs3/}
+Guoliang Li   \n
 *Visiting Student* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
-Master Student \n
-Southern University of Science and Technology \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+Master Student, Southern University of Science and Technology \n
 Research Area: Integrated sensing and communications, channel model. \n
 E-mail: ligl2020@mail.sustech.edu.cn
 ~~~
@@ -76,11 +96,11 @@ E-mail: ligl2020@mail.sustech.edu.cn
 
 ~~~
 {}{img_left}{./photos/hongyuncong.jpg}{alt text}{131}{160}{https://faculty.sustech.edu.cn/wangs3/}
+Yuncong Hong\n
 *Visiting PhD Student* \n
-[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)]\n
-PhD Student \n
-Southern University of Science and Technology \n
-University of Hong Kong \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)  \n
+\n
+PhD Student, University of Hong Kong \n
 Research Area: Federated learning, system design. \n
 E-mail: hongyc@mail.sustech.edu.cn
 ~~~
