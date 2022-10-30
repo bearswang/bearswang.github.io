@@ -28,6 +28,28 @@ More interesting vedios can be found at:
 
 
 === Group Members:
+
+~~~
+{}{img_left}{./photos/huanglexiong.jpg}{alt text}{131}{160}
+Lexiong Huang \n
+*M.S. Student* \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+Research Area: Autonomous driving \n
+E-mail: lx.huang@siat.ac.cn
+~~~
+
+~~~
+{}{img_left}{./photos/jizhiyou.png}{alt text}{131}{160}
+Zhiyou Ji \n
+*M.S. Student* \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+B.S., Zhengzhou University（ZZU）\n
+Research Area: Task-oriented navigation \n
+E-mail: zy.ji@siat.ac.cn
+~~~
+
 ~~~
 {}{img_left}{./photos/zhangtong.jpg}{alt text}{131}{160}
 Dr. Tong Zhang \n
@@ -37,7 +59,7 @@ Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)
 \n
 Posdoc Fellow, Southern University of Science and Technology \n
 Ph.D., Chinese University of Hong Kong \n
-Research Area: Integrated sensing and communications, communication security. \n
+Research Area: Integrated sensing and communications, communication security \n
 E-mail: zhangt7@sustech.edu.cn
 ~~~
 
@@ -48,7 +70,7 @@ Jianjun Chen \n
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
 \n
 Ph.D. Student, Southern University of Science and Technology \n
-Research Area: V2X simulation, distributed learning. \n
+Research Area: V2X simulation, distributed learning \n
 E-mail: 11960008@mail.sustech.edu.cn
 ~~~
 
@@ -62,7 +84,7 @@ Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)  \n
 \n
 Ph.D. Student, Southern University of Science and Technology \n
 University of Hong Kong \n
-Research Area: Robotics, motion planning. \n
+Research Area: Robotics, motion planning \n
 E-mail: hanruihuaff@gmail.com
 ~~~
 
@@ -75,7 +97,7 @@ Chengyang Li \n
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
 \n
 MPhil, Hong Kong University of Science and Technology \n
-Research Area: SLAM, CARLA simulation. \n
+Research Area: SLAM, CARLA simulation \n
 E-mail: licy@mail.sustech.edu.cn
 ~~~
 
@@ -88,7 +110,7 @@ Guoliang Li   \n
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
 \n
 Master Student, Southern University of Science and Technology \n
-Research Area: Integrated sensing and communications, channel model. \n
+Research Area: Sensor simulation, autonomous driving \n
 E-mail: ligl2020@mail.sustech.edu.cn
 ~~~
 
@@ -101,7 +123,7 @@ Yuncong Hong\n
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)  \n
 \n
 PhD Student, University of Hong Kong \n
-Research Area: Federated learning, system design. \n
+Research Area: Federated learning, system design \n
 E-mail: hongyc@mail.sustech.edu.cn
 ~~~
 
