@@ -1,7 +1,7 @@
 ==Welcome to Shuai's Homepage!
 
 ~~~
-{}{img_left}{./photos/swang.jpg}{alt text}{262}{320}{https://faculty.sustech.edu.cn/wangs3/}
+{}{img_left}{./photos/swang.jpg}{alt text}{262}{320}
 Shuai Wang (王帅) \n
 Ph.D (HKU), M.S. (BUPT), B.S. (BUPT) \n
 Associate Professor\n
@@ -96,7 +96,7 @@ IEEE Transactions on Communications, vol. 70, no. 5, pp. 3141-3156, May 2022.
 
 More details can be found [teaching.html here].
 
-== What's New
+== News
 I am actively looking for self-motivated master and undergraduate students to conduct research in areas of 
 autonomous driving, robotics, and communications. 
 Please feel free to drop me an email with your CV, transcript, awards and publications (if any).
