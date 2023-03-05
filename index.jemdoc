@@ -7,7 +7,7 @@ Ph.D (HKU), M.S. (BUPT), B.S. (BUPT) \n
 Associate Professor\n
 \n
 PI, [group.html Intelligent Networked Vehicle System (INVS) Lab] \n
-[http://cloud.siat.ac.cn Research Center for Cloud Computing]  \n
+[http://cloud.siat.ac.cn Center for Cloud Computing]  \n
 [http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)] \n
 \n
 SIAT F903, 1068 Xueyuan Avenue, Nan Shan \n
@@ -21,37 +21,39 @@ E-mail: s.wang@siat.ac.cn
 Dr. Shuai Wang received the B.S. and M.S. degrees from the Beijing University of Posts and Telecommunications in 2011 and 2014, respectively. 
 He received the Ph.D. degree (P.K.Yu Scholarship) in Electrical and Electronic Engineering from 
 the University of Hong Kong in 2018. 
-From 2018 to 2019, he has been a Postdoctoral Fellow at the University of Hong Kong. 
-From 2019 to 2021, he has been a Research Assistant Professor at Southern University of Science and Technology. 
-Currently, he is an Associate Professor at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+Currently, he is an Associate Professor at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences.
 
 
 Shuai works on unmanned autonomous systems, with an emphasis on leveraging machine learning, 
-accelerated algorithms, and virtual-reality integration to advance the efficiency and robusness of 
+optimization, and virtual-reality integration to advance the efficiency and robusness of 
 autonomous perception and navigation systems in open, dynamic, and heterogeneous scenarios. 
 He is the primary contributor of CarlaINVS and CarlaFLCAV platforms ([https://github.com/bearswang My Github]).
 
-Shuai has been selected into Shenzhen Overseas High-Level Talent Program 
-and Chinese Academy of Sciences 100 Talent Program (Candidate) in 2019 and 2022, respectively.
+Shuai has been selected into SIAT Excellent Young Scholars, Shenzhen Overseas High-Level Talent Program, and Chinese Academy of Sciences 100 Talent Program (Candidate).
 Shuai has received several academic and industrial awards, including 
 IEEE Signal Processing and Computing for Communications Best Paper Award, 
 IEEE International Conference on Communications Best Paper Award, 
-and the First Prize in 5G Blooming Cup National Industrial Competition ([awards.html Full list of awards]).
-Shuai is the PI of 9 projects from both goverments and industries ([grants.html Full list of grants]).
-He has published 35 SCI papers, 20 EI papers, including 18 JCR Q1 papers as first or corresponding author, 
-with 600 citations in Google Scholar 
+the First Prize in ``Bloom Cup'' National 5G Application Competition,
+and the WiFi Sensing White Paper Outstanding Contribution Award ([awards.html Full list of awards]).
+Shuai is the PI of more than 10 projects from both goverments and industries ([grants.html Full list of grants]).
+He has published more than 60 papers, including 38 SCI papers and 23 EI papers.
+He has published 19 JCR Q1 SCI papers as first or corresponding author, 
+with more than 750 citations in Google Scholar 
 ([https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar], 
 [https://www.researchgate.net/profile/Shuai-Wang-118 My Research Gate]).
-Shuai serves as the Guest Editor of 3 SCI journals and the Symposium chair/TPC member of 10 conferences.
+Shuai serves as 
+the Area Chair of IEEE WoCC 2022, 
+the Founding Member of IEEE ISAC-ETI, the Guest Editor of 3 SCI journals, 
+and the Session Chair or TPC member of more than 10 conferences such as ICASSP, ICC, GLOBECOM, ICDCSW.
 
-Shuai was the Core Member and is currently a Visiting Professor of 
+Shuai was the Research Assistant Professor and is currently a Visiting Professor of 
 [http://www.isus.org.cn/ SUSTech Intelligent Transportation Center].
 
 
 == Research
 Some of my current researches are listed below. 
 \n
-- Optimization and implementation of connected autonomous systems via CARLA-ROS-BRIDGE
+- Optimization and implementation of connected autonomous systems
 - Sensing, mapping, localization, and navigation of swarm robots
 - Efficient communications in edge intelligence systems
 
@@ -73,7 +75,7 @@ Find out more at:
 === Selected Publications 
 . *S. Wang*, C. Li, D. W. K. Ng, Y. C. Eldar, H. V. Poor, Q. Hao, and C. Xu, 
 \"Federated deep learning meets autonomous vehicle perception: Design and verification,\" 
-IEEE Network Magazine, 2022. [https://arxiv.org/abs/2206.01748v1.pdf \[preprint\]] 
+IEEE Network Magazine, 2022. DOI: 10.1109/MNET.104.2100403. [https://arxiv.org/abs/2206.01748v1.pdf \[preprint\]] 
 \n
 . *S. Wang*, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, \"Robotic wireless energy transfer in dynamic environments: System design and experimental validation,\" IEEE Communications Magazine, vol. 60, no. 3, pp. 40-46, Mar. 2022. [https://arxiv.org/pdf/2201.12702.pdf \[preprint\]]
 \n
@@ -98,10 +100,16 @@ More details can be found [teaching.html here].
 
 == News
 I am actively looking for self-motivated master and undergraduate students to conduct research in areas of 
-autonomous driving, robotics, and communications. 
+autonomous driving, robotics, optimization, and communication networks. 
 Please feel free to drop me an email with your CV, transcript, awards and publications (if any).
 Note: please make your email subject as Name-School-Major.
 \n\n\n
+2023-02: Our paper on V2X autonomous navigation has been accepted by IEEE TVT! Congratulations to Zongze!  \n
+2023-01: Our paper on urban intelligent systems has been accepted by IEEE IOTJ! Congratulations to Shiyao!  \n
+2023-01: Our paper on fast autonomous navigation has been accepted by IEEE RAL! Congratulations to Ruihua!  \n
+2022-12: Our paper on integrated sensing, communicagion, and learning has been accepted by IEEE TGCN! Congratulations to Tong!  \n
+2022-12: Our paper on integrated sensing, communicagion, and computing (SC2) has been accepted by IEEE JSTSP! Congratulations to Peixi!  \n
+2022-12: Our paper on federated learning autonomous driving has been accepted by IEEE Network! Congratulations to Chengyang!  \n
 2022-10: I have been awarded the Third Prize in MIIT National 5G Industrial Competition, Virtual Private Network Track.\n
 2022-10: Our paper on multi-point integrated sensing and communication has been accepted by IEEE WCL! Congratulations to Guoliang! \n
 2022-10: Our paper on RIS OFDM relaying has been accepted by IEEE TVT! Congratulations to Tong! \n

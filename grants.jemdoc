@@ -1,6 +1,16 @@
 ==Research Grants
 
 === Fundings:
+. Shenzhen Institute of Advanced Technology Excellent Young Scholars, *PI*
+\n
+Topic: Virtual-reality integration for robotics
+. The Science and Technology Development Fund (FDCT) of Macao, General Program, *Co-PI*
+\n
+Topic: Virtual-reality integration for autonomous driving
+. Direct Drive Tech (DDT) Cooperation Project, *PI*
+\n
+Topic: Navigation and simulation for biped robots
+\n
 . Shenzhen Research Institute of Big Data, Consultant Fund, *PI*
 \n
 Topic: 5G AI connected autonomous driving
@@ -13,7 +23,7 @@ Topic: Federated learning autonomous driving
 . Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
 \n
 Topic: V2X simulation
-. National Natural Science Fundation of China (NSFC), *PI*
+. National Natural Science Fundation of China (NSFC), Youth Program, *PI*
 \n
 Topic: Large-scale edge intelligence systems
 . Guangdong Universities Youth Innovative Talent Project, *PI*
@@ -35,14 +45,14 @@ Topic: Autonomous driving
 \n
 Topic: V2X course design
 
-=== Products:
+=== Softwares:
+. Cooperative perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]] 
+. Federated learning autonomous driving simulation platform [https://github.com/SIAT-INVS/CarlaFLCAV \[codes\]]
+. Carla dataset generation tools [https://github.com/KevinLADLee/carla_dataset_tools \[codes\]]
+. Autonomous navigation RDA planner [https://github.com/hanruihua/RDA_planner \[codes\]]
 . Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
 . Robot edge intelligence experimental platform [https://github.com/bearswang/RoboEDGE \[codes\]]
 . Multi-robot platform [https://github.com/hanruihua/rvo_ros \[codes\]]
-. Autonomous driving perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]] 
-. Federated learning autonomous driving simulation platform [https://github.com/SIAT-INVS/CarlaFLCAV \[codes\]]
-. CARLA dataset generation tools [https://github.com/KevinLADLee/carla_dataset_tools \[codes\]]
-. Cooperative driving simulation platform
 . Integrated sensing and communication simulation platform
 
 
