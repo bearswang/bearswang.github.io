@@ -12,8 +12,6 @@ Shenzhen Institute of Advanced Technology for Intelligent Networked Vehicle Syst
 \n
 SIAT F10, 1068 Xueyuan Avenue, Nan Shan \n
 Shenzhen 518055, P.R. China \n
-
-E-mail: s.wang@siat.ac.cn
 ~~~
 
 
@@ -58,8 +56,32 @@ Some interesting vedios can be found at:
 - [demo3.html Demo 3: Autonomous vehicle motion prediction]
 - [demo4.html Demo 4: Distributed dynamic map fusion]
 
+=== PI
 
-=== Group Members:
+
+~~~
+{}{img_left}{./photos/swang.jpg}{alt text}{131}{160}
+[https://bearswang.github.io/index.html Shuai Wang] \n
+*Associate Professor* \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+Research Area: Autonomous driving, communications, robotis \n
+E-mail: s.wang@siat.ac.cn
+~~~
+
+=== Group Members
+
+
+~~~
+{}{img_left}{./photos/liguoliang.jpg}{alt text}{131}{160}
+Guoliang Li   \n
+*PhD Candidate* \n
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
+\n
+Joint PhD, University of Macao\n
+Research Area: Sensor simulation, autonomous driving \n
+E-mail: ligl2020@mail.sustech.edu.cn
+~~~
 
 ~~~
 {}{img_left}{./photos/huanglexiong.jpg}{alt text}{131}{160}
@@ -88,7 +110,7 @@ Chengyang Li \n
 *Master Student* \n
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
 \n
-MPhil, Hong Kong University of Science and Technology \n
+Joint MPhil, Hong Kong University of Science and Technology \n
 Research Area: SLAM, CARLA simulation \n
 E-mail: licy@mail.sustech.edu.cn
 ~~~
@@ -131,20 +153,6 @@ University of Hong Kong \n
 Research Area: Robotics, motion planning \n
 E-mail: hanruihuaff@gmail.com
 ~~~
-
-
-
-~~~
-{}{img_left}{./photos/liguoliang.jpg}{alt text}{131}{160}
-Guoliang Li   \n
-*Visiting Student* \n
-Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS) \n
-\n
-Master Student, Southern University of Science and Technology \n
-Research Area: Sensor simulation, autonomous driving \n
-E-mail: ligl2020@mail.sustech.edu.cn
-~~~
-
 
 
 ~~~
