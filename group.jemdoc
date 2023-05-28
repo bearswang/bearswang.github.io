@@ -1,26 +1,57 @@
-==Welcome to Intelligent Networked Vehicle System (INVS) Lab!
+==SIAT-INVS LAB
 
 ~~~
-{}{img_left}{./photos/invs.png}{alt text}{1000}{750}
+{}{img_left}{./photos/invs.png}{alt text}{275}{275}
+SIAT-INVS LAB \n
+Shenzhen Institute of Advanced Technology for Intelligent Networked Vehicle System \n
+[https://github.com/SIAT-INVS Our Github]
+\n
+\n
+[http://cloud.siat.ac.cn Center for Cloud Computing]  \n
+[http://www.siat.ac.cn Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)] \n
+\n
+SIAT F10, 1068 Xueyuan Avenue, Nan Shan \n
+Shenzhen 518055, P.R. China \n
+
+E-mail: s.wang@siat.ac.cn
 ~~~
 
 
 === Introduction
 
-We are Intelligent Networked Vehicle System (INVS) Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+We are Intelligent Networked Vehicle System (INVS) Lab at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. 
 Our long-term goal is to realize trust-worthy interactive autonomous systems. 
-Currently, we work on connected autonomous vehicles and edge robotics systems. 
-We leverage optimization, maching learning, and simulation tools to advance their efficiency and robustness.
+Currently, we work on connected autonomous vehicles and edge robotics. 
+We leverage advanced optimization, maching learning, and high-fidelity simulation to enhance their efficiency and robustness.
+SIAT-INVS LAB has been working closely with universities including HKU, UM, SUSTech, BUPT, SCUT, SYSU, CUHK-SZ, HKUST-GZ, and companies including Direct Drive Tech, Agilex Rbotics, Huawei, China Unicom, DeepRoute, RoboSense.
+SIAT-INVS develops various swarm robots platform, including wheel-leg robots, car-like robots, aerial robots, turtlebots, race cars, Hololens, GPU servers, RF analyzers.
 
-Visit us at: SIAT F10, Xueyuan Avenue 1068, Nan Shan, Shenzhen.
 
-The swarm robots platform in INVS, including turtlebots, race cars, limo robots, aerial robots, GPU servers, RF analyzers, etc.:
+=== Pictures
 
 ~~~
-{}{img_left}{./photos/invs-sr.png}{alt text}{1000}{550}
+{}{img_left}{./photos/invs-lab.png}{alt text}{1000}{550}
 ~~~
 
-More interesting vedios can be found at:
+~~~
+{}{img_left}{./photos/invs-ddt-vr.png}{alt text}{1000}{550}
+~~~
+
+~~~
+{}{img_left}{./photos/invs-ddt-sr.png}{alt text}{1000}{550}
+~~~
+
+~~~
+{}{img_left}{./photos/invs-agx-vr1.png}{alt text}{1000}{550}
+~~~
+
+~~~
+{}{img_left}{./photos/invs-agx-vr2.png}{alt text}{1000}{550}
+~~~
+
+=== Videos
+
+Some interesting vedios can be found at:
 
 - [demo1.html Demo 1: Edge federated learning]
 - [demo2.html Demo 2: Autonomous driving over-the-air updates]
