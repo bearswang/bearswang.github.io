@@ -1,31 +1,31 @@
 ==Research Grants
 
 === Fundings:
-. Shenzhen Institute of Advanced Technology Excellent Young Scholars, *PI*
+. National Natural Science Fundation of China (NSFC), General Program, *PI*
+\n
+Topic: Virtual-reality integration for autonomous driving
+. National Natural Science Fundation of China (NSFC), Youth Program, *PI*
+\n
+Topic: Large-scale edge intelligence systems
+. Shenzhen Institute of Advanced Technology, Excellent Young Scholars, *PI*
 \n
 Topic: Virtual-reality integration for robotics
 . The Science and Technology Development Fund (FDCT) of Macao, General Program, *Co-PI*
 \n
 Topic: Virtual-reality integration for autonomous driving
+. Zhejiang Lab Cooperation Project, *Co-PI*
+\n
+Topic: Multi-robots reinforcement learning
 . Direct Drive Tech (DDT) Cooperation Project, *PI*
 \n
-Topic: Navigation and simulation for biped robots
+Topic: Navigation and simulation for wheel-legged robots
 \n
-. Shenzhen Research Institute of Big Data, Consultant Fund, *PI*
-\n
-Topic: 5G AI connected autonomous driving
-. Chinese Academy of Sciences 100 Talent, Candidate Program, *PI*
-\n
-Topic: Swarm robots
 . Guangdong Laboratory of Artificial Intelligence and Digital Economy, Open Research Fund, *PI*
 \n
 Topic: Federated learning autonomous driving
 . Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
 \n
 Topic: V2X simulation
-. National Natural Science Fundation of China (NSFC), Youth Program, *PI*
-\n
-Topic: Large-scale edge intelligence systems
 . Guangdong Universities Youth Innovative Talent Project, *PI*
 \n
 Topic: Edge robotics
@@ -38,21 +38,6 @@ Topic: Communication for autonomous driving perception
 . SUSTech-Huawei Cooperation Project, *Co-PI*
 \n
 Topic: WIFI sensing
-. Shenzhen Science and Technology Project, Key Program, Participant
-\n
-Topic: Autonomous driving
-. SUSTech-FXB Cooperation Project, Participant
-\n
-Topic: V2X course design
 
-=== Softwares:
-. Cooperative perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]] 
-. Federated learning autonomous driving simulation platform [https://github.com/SIAT-INVS/CarlaFLCAV \[codes\]]
-. Carla dataset generation tools [https://github.com/KevinLADLee/carla_dataset_tools \[codes\]]
-. Autonomous navigation RDA planner [https://github.com/hanruihua/RDA_planner \[codes\]]
-. Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
-. Robot edge intelligence experimental platform [https://github.com/bearswang/RoboEDGE \[codes\]]
-. Multi-robot platform [https://github.com/hanruihua/rvo_ros \[codes\]]
-. Integrated sensing and communication simulation platform
 
 

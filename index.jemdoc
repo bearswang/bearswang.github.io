@@ -43,16 +43,15 @@ Shuai has received several academic and industrial awards, including
 the Excellent Young Scientist Award of IEEE International Conference on Computer and Communication Systems in 2023, 
 the First Prize of National ``Bloom Cup'' 5G Industrial Competition in 2022, 
 the Outstanding Contribution Award of IEEE-ISAC WiFi Sensing in 2022, 
-the Best Paper Award of IEEE Signal Processing and Computing for Communications in 2021, 
-and the Best Paper Award of IEEE International Conference on Communications in 2020, ([awards.html Full list of awards]).
+the Best Paper Award of IEEE ComSoc SPCC Commitee in 2021, 
+and the Best Paper Award of IEEE ICC in 2020, ([awards.html Full list of awards]).
 Shuai is the PI of more than 10 projects from both goverments and industries ([grants.html Full list of grants]).
 He has published 40 SCI papers, 25 EI papers, 6 patents, 1 standard, and 2 white papers.
 He has published 20 JCR Q1 SCI papers as first or corresponding author, 
-with 800+ citations in Google Scholar 
+with 1000+ citations in Google Scholar 
 ([https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar], 
 [https://www.researchgate.net/profile/Shuai-Wang-118 My Research Gate]).
-Shuai serves as 
-the Area Chair of IEEE WoCC 2022, 
+Shuai serves as the General Co-Chair of IJCAI MOCAM 2023, the Area Chair of IEEE WoCC 2022, 
 the Founding Member of IEEE ISAC-ETI, the Guest Editor of 3 SCI journals, 
 and the Session Chair or TPC member of more than 10 conferences such as ICASSP, ICC, GLOBECOM, ICDCS.
 
@@ -82,10 +81,31 @@ Find out more at:
 - [demo3.html Demo 3: Autonomous vehicle model predictive control]
 - [demo4.html Demo 4: Distributed dynamic map fusion]
 
+== Projects:
+- National Natural Science Fundation of China (NSFC), General Program, *PI*
+- National Natural Science Fundation of China (NSFC), Youth Program, *PI*
+- Shenzhen Institute of Advanced Technology, Excellent Young Scholars, *PI*
+- Direct Drive Tech Cooperation Project, *PI*
+- The Science and Technology Development Fund (FDCT) of Macao, General Program, *Co-PI*
+- Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
+
+[grants.html Full list of grants].
+
+== Awards
+- Best Paper Award, IEEE ICC, 2020
+- Best Paper Award, IEEE ComSoc SPCC Commitee, 2021
+- First Prize, National 5G Industrial Competition, 2022
+- IEEE ICCCS Excellent Young Scientist Award, 2023
+- IEEE ICDCS Workshop Best Student Paper Award, 2023
+
+
+[awards.html Full list of awards].
+
+
 === Selected Publications 
 . *S. Wang*, C. Li, D. W. K. Ng, Y. C. Eldar, H. V. Poor, Q. Hao, and C. Xu, 
 \"Federated deep learning meets autonomous vehicle perception: Design and verification,\" 
-IEEE Network, 2022. DOI: 10.1109/MNET.104.2100403. [https://arxiv.org/abs/2206.01748v1.pdf \[preprint\]] 
+IEEE Network, vol. 37, no. 3, pp. 16-25, 2023.  [https://arxiv.org/abs/2206.01748v1.pdf \[preprint\]] 
 \n
 . *S. Wang*, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, \"Robotic wireless energy transfer in dynamic environments: System design and experimental validation,\" IEEE Communications Magazine, vol. 60, no. 3, pp. 40-46, Mar. 2022. [https://arxiv.org/pdf/2201.12702.pdf \[preprint\]]
 \n
@@ -100,6 +120,15 @@ IEEE Transactions on Communications, vol. 70, no. 5, pp. 3141-3156, May 2022.
 
 [pub.html Full list of publications].
 
+=== Software:
+. Cooperative perception simulation platform [https://github.com/zijianzhang/CARLA_INVS \[codes\]] 
+. Federated learning autonomous driving simulation platform [https://github.com/SIAT-INVS/CarlaFLCAV \[codes\]]
+. Carla dataset generation tools [https://github.com/KevinLADLee/carla_dataset_tools \[codes\]]
+. Autonomous navigation RDA planner [https://github.com/hanruihua/RDA_planner \[codes\]]
+. Wireless power transfer experimental platform [https://github.com/bearswang/wireless-power-transmission \[codes\]]
+. Robot edge intelligence experimental platform [https://github.com/bearswang/RoboEDGE \[codes\]]
+. Multi-robot platform [https://github.com/hanruihua/rvo_ros \[codes\]]
+. Model predictive control in Carla-ROS simulation [https://github.com/bearswang/mpc-ros \[codes\]]
 
 === Teaching
 . Digital communications
