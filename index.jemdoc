@@ -35,7 +35,7 @@ Currently, he is an Associate Professor at Shenzhen Institute of Advanced Techno
 
 Shuai works on the intersection of robotics and communications, with an emphasis on leveraging machine learning, nonlinear optimization, and virtual-reality integration to advance the efficiency and robusness of 
 autonomous perception, planning, and communication systems in open scenarios. 
-He has published more than 80 papers on top journals and conferences, 8 patents, 1 standard, and 1 white paper.
+He has published more than 80 papers on top journals and conferences, and 8 patents, 1 standard, 1 white paper.
 He has published 25 JCR Q1 SCI papers as first or corresponding author, with 1200+ citations in Google Scholar 
 ([https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar], 
 [https://www.researchgate.net/profile/Shuai-Wang-118 My Research Gate]).
@@ -51,10 +51,6 @@ and the Frize Prize of ICT China Industry Application in 2023.
 He served as a Symposium or Workshop co-chair of WoCC 2022, IJCAI 2023, CCID 2023, WCNC 2024, and more recently, 
 as the vice-chair of Grandprix Metaverse Autonomous Driving Challenge 2023 
 (for more details about the challenge please see: [https://contests.cis.um.edu.mo/meta_racing_2023/]).
-
-
-Shuai was the Research Assistant Professor and is currently a Visiting Professor of 
-[http://www.isus.org.cn/ SUSTech Intelligent Transportation Center].
 
 
 == Research
@@ -205,6 +201,9 @@ IEEE Transactions on Mechatronics, revision, 2024.
 . H. Li, R. Han, Z. Zhao, W. Xu, Q. Hao, *S. Wang\**, C. Xu, 
 \"Seamless virtual reality with integrated synchronizer and synthesizer for autonomous driving,\"
 IEEE Robotics and Automation Letters, vol. 9, no. 5, pp. 4218-4225, Mar. 2024.
+. T. Zhang, *S. Wang\**, Y. Xu, R. Wang, P. C. Ching, and H V. Poor,
+\"The generalized degrees-of-freedom region of the two-user MIMO broadcast channel with delayed CSIT,\"
+IEEE Transactions on Information Theory, vol. 70, no. 2, pp. 1167-1177, Feb. 2024.
 . W. Kou, *S. Wang\**, G. Zhu, B. Luo, Y. Chen, D. W. K. Ng, and Y.-C. Wu, 
 \"Communication resources constrained hierarchical federated learning for end-to-end autonomous driving,\" IROS, 2023.
 . Z. Li, *S. Wang\**, S. Zhang, M. Wen, K. Ye, Y. C. Wu, and D. W. K. Ng, 
