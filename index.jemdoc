@@ -36,17 +36,16 @@ Currently, he is an Associate Professor at Shenzhen Institute of Advanced Techno
 Shuai works on the intersection of robotics and communications, with an emphasis on leveraging machine learning, nonlinear optimization, and virtual-reality integration to advance the efficiency and robusness of 
 autonomous perception, planning, and communication systems in open scenarios. 
 He has published more than 80 papers on top journals and conferences, and 8 patents, 1 standard, 1 white paper.
-He has published 25 JCR Q1 SCI papers as first or corresponding author, with 1200+ citations in Google Scholar 
+He has published 30 JCR Q1 SCI papers as first or corresponding author, with 1500+ citations in Google Scholar 
 ([https://scholar.google.com.hk/citations?user=W7WcEW0AAAAJ&hl=zh-CN My Google Scholar], 
 [https://www.researchgate.net/profile/Shuai-Wang-118 My Research Gate]).
 He is the PI of more than 10 projects from both goverments and industries.
 He is currently a Senior Member of IEEE, and an Associate Editor of IEEE Open Journal of the Communications Society.
 
-Shuai has been selected into the Chinese Academy of Sciences Talent Program and the Shenzhen Overseas High-Level Talent Program.
-He received the Best Paper Awards from IEEE ICC in 2020, IEEE ComSoc SPCC Committee in 2021, and IEEE ICDCS Workshops in 2023. 
+Shuai received the Best Paper Awards from IEEE ICC in 2020, IEEE ComSoc SPCC Committee in 2021, and IEEE ICDCS Workshops in 2023. 
 He is a recipient of the First Prize of National ``Bloom Cup'' 5G Industrial Competition in 2022,
 the Outstanding Contribution Award of IEEE ISAC-ETI WiFi Sensing in 2022, 
-the IEEE ICCCS Young Scientist Award in 2023, the Second Prize of Shenzhen Science and Technology Progress Award in 2023, 
+the IEEE ICCCS Young Scientist Award in 2023, the First Prize of Shenzhen Science and Technology Progress Award in 2023, 
 and the Frize Prize of ICT China Industry Application in 2023. 
 He served as a Symposium or Workshop co-chair of WoCC 2022, IJCAI 2023, CCID 2023, WCNC 2024, and more recently, 
 as the vice-chair of Grandprix Metaverse Autonomous Driving Challenge 2023 
@@ -56,8 +55,8 @@ as the vice-chair of Grandprix Metaverse Autonomous Driving Challenge 2023
 == Research
 Some of my current researches are listed below. 
 \n
-- Optimization and implementation of connected autonomous systems
-- Localization, perception, navigation, and communication of swarm robots
+- Optimization and implementation of autonomous systems
+- Localization, perception, navigation, and communication of robots
 - Efficient communications in edge intelligence systems
 
 ~~~
@@ -75,48 +74,9 @@ Find out more at:
 - [demo3.html Demo 3: Autonomous vehicle model predictive control]
 - [demo4.html Demo 4: Distributed dynamic map fusion]
 
-== Projects:
-. National Natural Science Fundation of China (NSFC), General Program, *PI*
-\n
-Topic: Virtual-reality integration for autonomous driving
-. National Natural Science Fundation of China (NSFC), Youth Program, *PI*
-\n
-Topic: Large-scale edge intelligence systems
-. Chinese Academy of Sciences, Hundred-Talent Program, *PI*
-\n
-Topic: Virtual-reality integration for robotics
-. The Science and Technology Development Fund (FDCT) of Macao, General Program, *Co-PI*
-\n
-Topic: Virtual-reality integration for robotics
-. Direct Drive Tech (DDT) Cooperation Project, *PI*
-\n
-Topic: Navigation and simulation for wheel-legged robots
-\n
-. Guangdong Laboratory of Artificial Intelligence and Digital Economy, Open Research Fund, *PI*
-\n
-Topic: Federated learning autonomous driving
-. Guangdong Basic and Applied Basic Research Project, Key Program, *Co-PI*
-\n
-Topic: V2X simulation
-. Guangdong Universities Youth Innovative Talent Project, *PI*
-\n
-Topic: Edge robotics
-. Shenzhen Fundamental Research Project, General Program, *PI*
-\n
-Topic: Communication for edge intelligence
-. Shenzhen Science and Technology Project, Youth Program, *PI*
-\n
-Topic: Communication for autonomous driving perception
-. SUSTech-Huawei Cooperation Project, *Co-PI*
-\n
-Topic: WIFI sensing
-. Shenzhen Institute of Advanced Technology, Excellent Young Scholars, *PI*
-\n
-Topic: Robotics
-
 === Awards:
 . First Prize, ICT China Industry Application Award, 2023
-. Second Prize, Shenzhen Science and Technology Progress Award, 2023
+. First Prize, Shenzhen Science and Technology Progress Award, 2023
 . Best Student Paper Award, IEEE ICDCS Workshop on SocialMeta, 2023
 . IEEE ICCCS Young Scientist Award, 2023
 . WiFi Sensing White Paper Outstanding Contribution Award, 2022
